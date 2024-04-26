@@ -32,5 +32,8 @@ evidenciando meu comprometimento com a excelência profissional.
 - Habilidades analíticas
 
 ## Projetos
-### [Nome do Projeto](link_para_o_projeto_no_github)
-- Descrição breve do projeto e sua contribuição, se aplicável
+##### (https://github.com/LucasCardozodpc/Projetinhos-Python.git)
+- Alguns códigos de domínio básico em Python.
+
+
+<img src="https://i.ytimg.com/vi/4JxXBiio-aU/maxresdefault.jpg" width="500px" height="150px">
