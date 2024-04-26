@@ -17,9 +17,6 @@ evidenciando meu comprometimento com a excelência profissional.
 ## N2 Suporte
 ### [PRO Franchising](https://profranchising.com.br/) - Curitiba, Parana (02/2022 - atual)
 - **Cargo**: Descrição das responsabilidades e realizações
-
-### [Nome da Empresa](link_para_o_site) - Cidade, Estado (MM/AAAA - MM/AAAA)
-- **Cargo**:
 -  Requisições via API utilizando o Postman, abordando montagens de JSON, envio de requisições e configuração de SAT.
 -  Investigação da causa raiz de incidentes, contribuindo para a evolução para o Nível 3.
 -  Aquisição de conhecimentos sobre modelos de notas fiscais, XML e tributos fiscais.
