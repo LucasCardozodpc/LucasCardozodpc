@@ -22,8 +22,8 @@ evidenciando meu comprometimento com a excelência profissional.
 -  Aquisição de conhecimentos sobre modelos de notas fiscais, XML e tributos fiscais.
 
 ## Formação
-- **Estácio** - Tecnólogo  (01/2015 - 06/2018)
-- **Fatec-PR** - Graduação (06/2020 - cursando)
+- **Gestão de TI-Estácio** - Tecnólogo  (01/2015 - 06/2018)
+- **Engenharia da computação -FatecPR** - Graduação (06/2020 - cursando)
 
 ## Habilidades
 - testes de API
