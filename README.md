@@ -3,8 +3,7 @@
 
 ## Informações de Contato
 - Email: lucasdpc1819@gmail.com
-- Telefone: (41) 98775-2723
-- LinkedIn:([link_do_seu_perfil](https://www.linkedin.com/in/lucas-pinto-moraes-cardozo-92b449140/))
+- LinkedIn:https://www.linkedin.com/in/lucas-pinto-moraes-cardozo-92b449140/
 
 ## Resumo
 Profissional de suporte com experiência significativa como Analista de Suporte N2 na PRO Franchising, onde fui
