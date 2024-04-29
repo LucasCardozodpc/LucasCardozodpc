@@ -1,4 +1,3 @@
-# Lucas Cardozo 
 ## Informações de Contato
 - Email: lucasdpc1819@gmail.com📧
 
