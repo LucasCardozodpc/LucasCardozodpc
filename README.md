@@ -1,6 +1,4 @@
 # Lucas Cardozo 
-<img src="https://media.licdn.com/dms/image/D4D03AQFZrz0kgrSWuA/profile-displayphoto-shrink_800_800/0/1702398997192?e=1719446400&v=beta&t=Ap_vJ949ixDcwNynh0dwuRmsXlhFkcgyBodRGIdpu_I" width="200px" height="200px">
-
 ## Informações de Contato
 - Email: lucasdpc1819@gmail.com📧
 
