@@ -1,5 +1,5 @@
-## Informações de Contato
-- Email: lucasdpc1819@gmail.com📧
+## Informações de Contato📧
+- Email: lucasdpc1819@gmail.com
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/lucas-pinto-moraes-cardozo-92b449140/)
