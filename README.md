@@ -18,7 +18,6 @@ evidenciando meu comprometimento com a excelência profissional.
 <img src="https://media.licdn.com/dms/image/C4D0BAQHcOTdZ8JRxfA/company-logo_200_200/0/1630580188787?e=2147483647&v=beta&t=fdGUm2zKSMRGUE143xaEaZnhlDTo0eUA2onskCx-Vf0" width="50px" height="50px">
 
 ### [PRO Franchising](https://profranchising.com.br/) - Curitiba, Paraná (02/2022 - atual)
-- **Cargo**: Descrição das responsabilidades e realizações
 -  Requisições via API utilizando o Postman, abordando montagens de JSON, envio de requisições e configuração de SAT.
 -  Investigação da causa raiz de incidentes, contribuindo para a evolução para o Nível 3.
 -  Aquisição de conhecimentos sobre modelos de notas fiscais, XML e tributos fiscais.
