@@ -21,6 +21,7 @@ evidenciando meu comprometimento com a excelência profissional.
 -  Requisições via API utilizando o Postman, abordando montagens de JSON, envio de requisições e configuração de SAT.
 -  Investigação da causa raiz de incidentes, contribuindo para a evolução para o Nível 3.
 -  Aquisição de conhecimentos sobre modelos de notas fiscais, XML e tributos fiscais.
+-  Capacidade de priorizar tarefas, cumprir prazos e gerenciar eficientemente o tempo para alcançar os objetivos estabelecidos como SLA.
 
 ## Formação🎓
 - **Gestão de TI-Estácio** - Tecnólogo  (01/2015 - 06/2018)
@@ -31,6 +32,7 @@ evidenciando meu comprometimento com a excelência profissional.
 - Assistência Técnica
 - Inglês avançado
 - Habilidades analíticas
+- Postman
 - ## Linguagens
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmmngeGJFNocA_JXfnBGI-yKvz1WNGQ2P7hYqKDrpO2w&s" width="100px" height="50px">
 <img src="https://ensinado.com.br/wp-content/uploads/2021/06/java_logo_640.jpg" width="100px" height="50px">
