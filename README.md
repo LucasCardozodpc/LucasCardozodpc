@@ -35,7 +35,12 @@ evidenciando meu comprometimento com a excelência profissional.
 - Assistência Técnica
 - Inglês avançado
 - Habilidades analíticas
-
+- ## Linguagens
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmmngeGJFNocA_JXfnBGI-yKvz1WNGQ2P7hYqKDrpO2w&s" width="100px" height="50px">
+<img src="https://ensinado.com.br/wp-content/uploads/2021/06/java_logo_640.jpg" width="100px" height="50px">
 ## Projetos🛠️
-##### (https://github.com/LucasCardozodpc/Projetinhos-Python.git)
+
 - Alguns códigos de domínio básico em Python.
+<a href="https://github.com/LucasCardozodpc/Projetinhos-Python.git">
+  <img src="https://img.shields.io/badge/Ver_Projeto_no_GitHub-9cf?logo=github" alt="Ver Projeto no GitHub">
+</a>
