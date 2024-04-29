@@ -33,9 +33,10 @@ evidenciando meu comprometimento com a excelência profissional.
 - Inglês avançado
 - Habilidades analíticas
 - Postman
-- ## Linguagens
+- ## Linguagens🧠
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmmngeGJFNocA_JXfnBGI-yKvz1WNGQ2P7hYqKDrpO2w&s" width="100px" height="50px">
 <img src="https://ensinado.com.br/wp-content/uploads/2021/06/java_logo_640.jpg" width="100px" height="50px">
+
 ## Projetos🛠️
 
 - Alguns códigos de domínio básico em Python.
